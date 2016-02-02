@@ -1,0 +1,66 @@
+//////////////////////
+Features for Spectrum
+/////////////////////
+----------------
+c. Core Features
+----------------
+Sets
+- Store a set of items from user input.
+- Browse stored sets. 
+- View a stored set.
+- Edit a stored set.
+- Delete a stored set.
+Favoriting
+- Start favoriting a set.
+- Stop favoriting before all decisions have been made.
+- Resume favoriting.
+- Edit past decisions.		
+- Generate a list from a user's favoriting ordered based on the user's preferences.
+Deciding
+- Choose their preference between two items from the set.
+- 
+Lists
+- Store a generated list.
+- Browse stored lists.
+- View a stored list.
+- Delete a stored list.
+---------------------
+sa. Social Features 1
+---------------------
+Sets
+- Export set into a human readable format.
+- Export set into a machine readable format.
+- Import set from a machine readable format.
+Lists
+- Export list into a human readable format.
+- Export list into a machine readable format.
+---------------------
+sb. Social Features 2
+---------------------
+Sets
+- Post sets publicly.
+- Browse public sets.
+- View public sets.
+- Remove own public sets.
+- Rate public sets.
+- Import public sets.
+Lists
+- Post lists publicly.
+- View public lists.
+- Remove own public lists.
+- Update own public lists.
+- Browse public lists.
+- View public lists.
+- Rate public lists.
+---------------------
+a. Aesthetic Features
+---------------------
+-Errthing looks purty
+---------------------
+u. Usability Features
+---------------------
+- Require only simple decisions from the user.
+- List creation functions without an internet connection.
+- Lists become more accurate as more decisions are made.
+- Set creation is fast and simple
+- List creation is simple and fun
