@@ -14,4 +14,4 @@ I will be trying to develop this as correctly and effectively as possible. I wil
 I'm just tryin' to write some code, y'know?
 
 ## Contact
-If you have any interest in this project, sweet! Send me a message.
+If you have any interest in this project, sweet! Send me a message at <a href="mailto:sohlnaixc@gmail.com?Subject=Spectrum">sohlnaixc@gmail.com</a>.
